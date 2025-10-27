@@ -1,21 +1,10 @@
 {
-  "short_name": "EdenGame",
   "name": "Eden Core Physics Game",
-  "icons": [
-    {
-      "src": "/assets/icon-192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "/assets/icon-512.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    }
-  ],
-  "start_url": "/",
-  "background_color": "#000000",
+  "short_name": "EdenCore",
+  "start_url": ".",
   "display": "standalone",
-  "scope": "/",
-  "theme_color": "#1f1f1f"
+  "background_color": "#000000",
+  "theme_color": "#00ffbb",
+  "description": "Scroll-activated physics experience powered by divine code.",
+  "icons": []
 }
