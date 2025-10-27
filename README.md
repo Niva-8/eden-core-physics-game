@@ -21,16 +21,3 @@ git clone https://github.com/YOUR_USERNAME/eden-core-physics-game.git
 cd eden-core-physics-game
 npm install
 npm run start
-
----
-
-### 📄 `LICENSE`
-```text
-MIT License
-
-Copyright (c) 2025 Niva
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software.
