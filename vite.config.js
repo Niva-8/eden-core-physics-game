@@ -1,14 +1,14 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
+// Vite build config
 export default defineConfig({
   plugins: [react()],
-  root: '.',                  // Root directory
-  publicDir: 'public',        // Tell Vite where index.html is
+  root: '.', // root of the app
   build: {
-    outDir: 'dist',           // Output folder for Render to deploy
+    outDir: 'dist',
   },
   server: {
-    port: 3000,
+    port: 5173,
   },
 })
